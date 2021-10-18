@@ -1,0 +1,6 @@
+C:\Users\tyler\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\CrackerJack.exe.config
+C:\Users\tyler\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\CrackerJack.exe
+C:\Users\tyler\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\CrackerJack.pdb
+C:\Users\tyler\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\CrackerJack.exe
+C:\Users\tyler\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\CrackerJack.pdb
